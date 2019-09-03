@@ -2,5 +2,5 @@
 <div>
 	<p> <h2>誤差函數值 </h2> </p>
 	<img src = "img/equation.png">
-	<p> <h2> 圖片可以看出alpha值與cost的變化 </h2>/p>
+	<p> <h2> 圖片可以看出alpha值與cost的變化 </h2> </p>
 </div>
